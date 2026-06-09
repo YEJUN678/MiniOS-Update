@@ -1,0 +1,5 @@
+;aiu;
+[Mini OS Update]
+Name = Mini OS
+ProductVersion = 1.22
+URL = https://github.com
