@@ -1,5 +1,14 @@
 ;aiu;
+
 [Update]
 Name = Mini OS
 ProductVersion = 1.22
 URL = https://github.com/YEJUN678/MiniOS-Update/releases/download/minios/minios.exe
+Size = 202884169
+ReleaseDate = 09/06/2026
+SHA256 = 28727F6E71F170DCC809058B43493A6EF62E15A4DF5E25D4C57E2D2E45916CC4
+MD5 = fb115ef9f4856633147607840eeb478e
+ServerFileName = minios.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Yejun.Inc\Mini OS\Version
+Version = 1.22
