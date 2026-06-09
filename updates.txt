@@ -1,7 +1,7 @@
 ;aiu;
 
 [Update]
-Name = minios v.1.22
+Name = minios v.1.23
 ProductVersion = 1.0.0.0
 URL = https://github.com/YEJUN678/MiniOS-Update/releases/download/minios/minios.exe
 Size = 202757785
